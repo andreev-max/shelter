@@ -11,6 +11,7 @@ Tasks:
 3. ***https://github.com/rolling-scopes-school/tasks/blob/master/tasks/markups/level-2/shelter/shelter-adaptive-ru.md***
 4. ***https://github.com/rolling-scopes-school/tasks/blob/master/tasks/markups/level-2/shelter/shelter-DOM-ru.md***
 
+Layout: ***https://www.figma.com/file/TFDHSh1co6WaqpIQ53S6qK/shelter-adaptive?node-id=94%3A43***
 
 Score: 83 / 100
 
